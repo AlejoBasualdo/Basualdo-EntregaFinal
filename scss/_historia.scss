@@ -1,0 +1,80 @@
+/* Historia */
+
+.historiaqs {
+    width: 100%;
+    height: 70vh;
+    background-image: url(../images/wwin.webp);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: $color-blanco;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+  
+    h3, h4 {
+      text-align: center;
+    }
+  }
+  
+  .historiaddv {
+    width: 100%;
+    height: 70vh;
+    background-image: url(../images/fran.webp);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: $color-blanco;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+  
+    h3, h4 {
+      text-align: center;
+    }
+  }
+  
+  .historiade {
+    width: 100%;
+    height: 70vh;
+    background-image: url(../images/obelis.webp);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: $color-blanco;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+  
+    h3 {
+      text-align: center;
+      text-align: center;
+    }
+  }
+  
+  .historiaadv {
+    width: 100%;
+    height: 70vh;
+    background-image: url(../images/marti.webp);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: $color-blanco;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+  
+    h3 {
+      text-align: center;
+      text-align: center;
+    }
+  }
+  

@@ -1,0 +1,36 @@
+/*MediaQuerries*/
+/* Vista Tablet 768-1023 */
+@media (max-width: 600) {
+    /* Header */
+    .encabezado {
+      height: auto;
+      flex-direction: column;
+      text-align: center;
+    }
+    .encabezado .boton {
+      display: none;
+    }
+    /*Banner*/
+    .bannerContenido p {
+      font-size: 2.5rem;
+    }
+    /*Historia*/
+    .historiaq  h3 {
+      font-size: 10px;
+    }
+    .contenedorcsgo {
+      grid-template-columns: 1fr 1fr;
+    }
+    /*Footer*/
+    .Pie {
+      width: auto;
+      height: auto;
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+  @media (max-width: 768) {
+    .contenedorcsgo {
+      grid-template-columns: 1fr;
+    }
+  }
